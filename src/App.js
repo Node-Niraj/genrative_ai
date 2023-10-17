@@ -1,4 +1,5 @@
-import Home from "../home";
+import React from "react";
+import Home from "./Components/home";
 
 function App() {
   return (
@@ -7,13 +8,5 @@ function App() {
     </div>
   );
 }
-
-function about() {
-  return (
-    <div>about</div>
-  )
-}
-
-
 
 export default App;
