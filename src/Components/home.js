@@ -12,7 +12,7 @@ const Home = () => {
        <>
        <Navbar expand="lg" className="bg-warning-subtle">
       <Container fluid>
-        <Navbar.Brand href="#">Welcome to MeenZo! </Navbar.Brand>
+        <Navbar.Brand ><img src="logo.png" alt="Logo" /></Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
